@@ -1,0 +1,39 @@
+@media only screen and (min-width:1px) {
+    body > header {
+        background: url(/images/triangles-header.jpg) no-repeat;
+    }
+}
+
+.borderless { 
+    -webkit-box-shadow: none;
+    border-bottom-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+    border-left-color: rgb(255, 255, 255);
+    border-left-style: none;
+    border-left-width: 0px;
+    border-right-color: rgb(255, 255, 255);
+    border-right-style: none;
+    border-right-width: 0px;
+    border-top-color: rgb(255, 255, 255);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-style: none;
+    border-top-width: 0px;
+    box-shadow: none;
+    box-sizing: none;
+    color: rgb(34, 34, 34);
+    display: inline;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    max-width: 100%;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    vertical-align: baseline;
+}
