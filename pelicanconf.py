@@ -13,7 +13,9 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
-CATEGORY_SAVE_AS = 'misc'
+DEFAULT_CATEGORY = 'misc'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -33,7 +35,7 @@ MENUITEMS = (('Code', 'http://github.com/zacbir/'),
 # Social widget
 SOCIAL = ()
 
-DEFAULT_PAGINATION = 1
+DEFAULT_PAGINATION = 10
 
 CATEGORIES = ()
 
@@ -43,8 +45,8 @@ CATEGORIES = ()
 # AUTHOR_SAVE_AS = False
 # AUTHORS_SAVE_AS = False
 
-ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 THEME = 'pelican-octopress-theme'
 
