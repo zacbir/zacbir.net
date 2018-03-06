@@ -1,7 +1,7 @@
 Title: Getting Control over Caps Lock
 Date: 2014-12-19 10:41
 Slug: getting-control-over-caps-lock
-Tags: Hardware, Hacking, Keyboards, Nerdery
+Tags: Hardware, Hacking, Keyboards, Nerdery, Software
 
 So, one of the first things I wanted to do with my newly resurrected
 [Apple Extended Keyboard II]({filename}/2014-12-16-nimitz-alive.markdown) was to return to the “proper”

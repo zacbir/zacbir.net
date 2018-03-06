@@ -1,7 +1,7 @@
 Title: App.net Sidebar
 Date: 2013-05-08 14:03
 Slug: app-net-sidebar
-Tags: Nerdery
+Tags: Nerdery, Software
 
 “Surely,” I thought, “there already exists an App.net sidebar for Octopress.”
 

@@ -1,7 +1,7 @@
 Title: Self Control
 Date: 2015-01-19 08:44
 Slug: self-control
-Tags: Hardware, Hacking, Keyboards
+Tags: Hardware, Hacking, Keyboards, Software
 
 In response to my recent keyboard posts, Alpha Chen posed a really good question:
 

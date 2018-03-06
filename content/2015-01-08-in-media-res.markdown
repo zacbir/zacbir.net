@@ -1,7 +1,7 @@
 Title: In Media Res
 Date: 2015-01-08 10:48
 Slug: in-media-res
-Tags: Hardware, Hacking, Keyboards, Nerdery
+Tags: Hardware, Hacking, Keyboards, Nerdery, Software
 
 I realized that in my first [post]({filename}/2014-12-16-nimitz-alive.markdown) about my new keyboard, I didn’t
 really explain the process to build the firmware for the Teensy 2.0 microcontroller. Since then, I’ve modified

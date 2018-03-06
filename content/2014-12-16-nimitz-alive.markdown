@@ -1,7 +1,7 @@
 Title: Nimitz Alive!
 Date: 2014-12-16 11:01
 Slug: nimitz-alive
-Tags: Hardware, Hacking, Keyboards, Nerdery
+Tags: Hardware, Hacking, Keyboards, Nerdery, Software
 
 Mechanical keyboards. I love mechanical keyboards. I’ve owned several in the past, but between moves and an
 admitted amount of fickleness, I haven’t had one for about a decade. Now, that’s changed. I’m writing this on
