@@ -15,7 +15,7 @@ I don't remember exactly what prompted me to visit
 [this picture](https://imgur.com/gallery/N0n8I),
 but I was utterly captivated when I saw it. You'll recall, I have several
 spares. I have switches, keycaps, and solder. All I need is a custom PCB and a
-CH60 case. Help me, [Hasu](https://geekhack.org/index.php?topic=69740.0). I
+GH60 case. Help me, [Hasu](https://geekhack.org/index.php?topic=69740.0). I
 ordered one set of the PCB and plates. I still have two spare keyboards, having
 built a second Teensy adapter so I could leave one keyboard at work and one at
 my studio. This keyboard is so much smaller, I can actually fit it in my bag
