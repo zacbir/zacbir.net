@@ -2,6 +2,10 @@ PY?=python
 PELICAN?=pelican
 PELICANOPTS=
 
+SITE_NAME=zacbir.net
+DATE=$(date "+%Y-%m-%d")
+TAG=$(date "+%Y-%m-%d_%H:%M:%S")
+
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
@@ -40,6 +44,7 @@ help:
 	@echo 'Usage:                                                                     '
 	@echo '   make html                        (re)generate the web site              '
 	@echo '   make clean                       remove the generated files             '
+	@echo '   make docker                      generate a Docker image of the site    '
 	@echo '   make regenerate                  regenerate files upon modification     '
 	@echo '   make publish                     generate using production settings     '
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000    '
@@ -65,6 +70,9 @@ html: theme
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+
+docker: html
+	docker build -t $(SITE_NAME):$(TAG) .
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
