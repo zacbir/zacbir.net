@@ -1,6 +1,6 @@
-Title: Elegance, distilled: the 60% Apple Extended Keyboard
+Title: Elegance, distilled: the 60% Apple Extended Keyboard II
 Date: 2018-05-24 17:11
-Slug: elegance-distilled-the-60-apple-extended-keyboard
+Slug: elegance-distilled-the-60-apple-extended-keyboard-ii
 Tags: Hardware, Hacking, Keyboards, Nerdery
 
 Have I mentioned that I love mechanical keyboards? I have? Well, I've just

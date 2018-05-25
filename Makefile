@@ -16,10 +16,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
+SSH_HOST=linode.zacbir.net
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_USER=zbir
+SSH_TARGET_DIR=/home/zbir/Sites/zacbir.net
 
 S3_BUCKET=my_s3_bucket
 
