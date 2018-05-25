@@ -5,8 +5,10 @@ Tags: Hardware, Hacking, Keyboards, Nerdery
 
 Have I mentioned that I love mechanical keyboards? I have? Well, I've just
 finished up another little project, and I'm typing on it right now. It's
-considerably smaller than the [Nimitz]({filename}/2014/12/16/nimitz-alive/),
+considerably smaller than the [Nimitz]({filename}/2014-12-16-nimitz-alive.markdown),
 but just as satisfyingly clicky.
+
+{% img clear /images/big-brother-little-brother.jpg 'Sitting next to one of my other Apple Extended Keyboard IIs' %}
 
 The Hook
 --------
