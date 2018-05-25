@@ -5,8 +5,8 @@ Tags: Hardware, Hacking, Keyboards, Nerdery
 
 Have I mentioned that I love mechanical keyboards? I have? Well, I've just
 finished up another little project, and I'm typing on it right now. It's
-considerably smaller than the [Nimitz](/blog/2014/12/16/nimitz-alive/), but
-just as satisfyingly clicky.
+considerably smaller than the [Nimitz]({filename}/2014/12/16/nimitz-alive/),
+but just as satisfyingly clicky.
 
 The Hook
 --------
