@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/zacbir
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zacbir.net
+  * I am zacbir (https://keybase.io/zacbir) on keybase.
+  * I have a public key with fingerprint 07C7 251D C4EB 7864 005A  B751 D6AA C720 D86E D4F4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120311071c3c82d01491189d82b40a121f70e9518cf75bd3e34581a15dd012153d20a",
+      "fingerprint": "07c7251dc4eb7864005ab751d6aac720d86ed4f4",
+      "host": "keybase.io",
+      "key_id": "d6aac720d86ed4f4",
+      "kid": "01014eb1af56a5078432b061d292dc08bd748d55461d6d3132a1b094ab52258a1aab0a",
+      "uid": "c718862b6720ed0c441d4600ae0dd319",
+      "username": "zacbir"
+    },
+    "merkle_root": {
+      "ctime": 1527468393,
+      "hash_meta": "68efe210d79712fd0e8ec33212f10e9c5d78408cb4a921d4b79d17ba1b527028",
+      "seqno": 2945722
+    },
+    "revoke": {
+      "sig_ids": [
+        "d6c0ea9bd7a7530efa646ef6fe3726bba1f09c34055eb399213950850df6a4c80f"
+      ]
+    },
+    "service": {
+      "hostname": "zacbir.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1527468422,
+  "expire_in": 157680000,
+  "prev": "46791c62642caea181790c7829de8643eb54f815501dd0e534abf8aa246075d0",
+  "seqno": 96,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMP9AnicbVNrbBVFFL5Y2wJivMgzNgJZggEtODM7sztbJSqYYOWhlYgNDy+zO7O3
+m5Z7L/feFtrSIPaFUIGCsTzEBGqQlodYsChSpAQQC0YebWkrFlttCiUpFSwJhIez
+jcSQuH925+x3vvOd75w5/mSMZ2C/xsofxzQF6v/ud/rY4kzPvCdSinIVM8izlaRc
+JV30vUQGF5GoL93hSpICIAIqhECHlmpRxAHEBoTU4BSZGDCIoK0DYRBILVsnJleF
+igmFDBIusQgSlSPAlETFdgJ+EQ6FnUDUpdUtHRHILSxMnWoYAMJMXQY0xuQfwKkm
+OLaxTEwLRtwMKc5kETHJCcqYPPj65P0P/qFuqVSYkNlEYwToFKvIBBrkyEDcAtTk
+OqacECxDGlehihg0gYGZSRAilEHGzD7dmX10lg4p1ZCpyVqCAwtjyLEGABOAy2zD
+BUZEOMAWCYnOYZbphJW8RGWRCKdnCF84GIy61lpRxwVAgnSsUdVQZXsskuZbJKJM
+5mlU2AJBwHVDh8jmQFBhqSqS31CabBEu+wDUMjEzkBRg6gaHuimVS0KAqFQREYsD
+QSUJGZjoCEkFYZEVTBdu8Yjjl6ZFlKR50jYLCGZIE5hOVCBspmFN2JotVB1ppmS0
+gWGpGBAiTNWQxVSDAEoAtzWGLQpsZUGeWyyc5Vh95O6UHul+UkBEpZ5QOBgNWsEM
+GU+LRkNJrinR7JCLWyJM378MPtMJcLkgMiFLhCNOMCBNkshH/cIIJSpiacgJC5/j
+IoiuUSAft4zIkpRY0w1oaUjDyGKCQQp1A1g6RQYXcstUYRJsU0gIgHI9BVHlvG3K
+GJKz1AkH/xloaFIn80tOaVuARTPDQsk7Vjv/cU+/gZ642Mfcm+MZOMD78D4lW15P
+4Y6385uct/akpt6uiKvL7k6ec/XDceu3X265GjPixd9yGxtmFKfVvrt697Zkvzrq
+TWP7uDb74sGehLr9i+9UXlvgvZc6a5fg+Tc72mdrKZfGVwz3/tm6qmBtXKB52tmj
+GzasWfLNlL82tpvzn7pSUL53eMGEjdWdBfsS/cG4sSM+iXv/pdqRe/s/k5t3uObm
+5ue9Pb9/3931xvLDyxqzYXVoftv1JZ3V5rUf0JmE7DULj+w8n/vlqx0rm25+9vPc
+8sKmwq4jbSeKvm08NWjzgmklyo6ckrU1RUOWtYS8ZSllga+of2R7T+XrG5qnX8h/
+OTN1S0trz+ju3h2erSkXPy7Nf26n0V11YL1xtyq+aje5NqajmC5vTxgd27qJLk17
+xbub3NjXMXndnXUxQ5cOGHwid/zle79WN63/Kb9k74PSKdq64lkYvlPV9dqNGOW9
+oounlx948IuvN35F2a5nDx1M7T81cXb61PPlJ5t3oQb9wp67nfc7VzZk1JwaVX/r
+8qDJXzfbX1TBGYHtpxe2rVqWEBO3deeY6gmrs2P5ti3xeHhZZVlvfdeZZufolVuX
+Dk4orfHvz3twsmHYoHPp52M3jho2r6DleOr4ia2FztNbJw5ZubaicaaYM/ZY6afX
+P7h+ru6Pxvo141rJ5/t6fatzphfXzjxLv0tZsWnbfS1+7tgLh/bnJA8uqdhTX141
+1PPClrrExz46evsfikIPKA==
+=pBzK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zacbir
+
+==================================================================
+
