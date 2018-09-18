@@ -28,8 +28,8 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Menu items
-MENUITEMS = (('Code', 'http://github.com/zacbir/'),
-             ('Twitter', 'http://twitter.com/zacbir/'),
+MENUITEMS = (('Code', 'https://github.com/zacbir/'),
+             ('Mastodon', 'https://mastodon.social/@zacbir/'),
              ('Archives', '/archives.html'))
 
 # Social widget
@@ -56,5 +56,7 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.include_code', 'tipue_search']
 DISPLAY_CATEGORIES_ON_MENU = False
 
 STATIC_PATHS = ['code', 'images', 'static', '.well-known']
+
+EXTRA_HEADER = '<link rel="me" href="https://mastodon.social/@zacbir"/>'
 
 CUSTOM_CSS_FILE = 'static/css/custom.css'
