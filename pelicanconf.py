@@ -57,6 +57,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 
 STATIC_PATHS = ['code', 'images', 'static', '.well-known']
 
-EXTRA_HEADER = '<link rel="me" href="https://mastodon.social/@zacbir"/>'
+EXTRA_HEADER = '<link rel="me" href="https://mastodon.social/@zacbir">'
 
 CUSTOM_CSS_FILE = 'static/css/custom.css'
