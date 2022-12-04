@@ -29,7 +29,7 @@ LINKS = ()
 
 # Menu items
 MENUITEMS = (('Code', 'https://github.com/zacbir/'),
-             ('Mastodon', 'https://mastodon.social/@zacbir/'),
+             ('Mastodon', 'https://dice.camp/@zacbir/'),
              ('Archives', '/archives.html'))
 
 # Social widget
@@ -48,15 +48,17 @@ CATEGORIES = ()
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-THEME = 'pelican-octopress-theme'
+# THEME = 'pelican-octopress-theme'
 
-PLUGIN_PATHS = ['/Users/zac.bir/Development/zacbir.net/pelican-plugins']
-PLUGINS = ['liquid_tags.img', 'liquid_tags.include_code', 'tipue_search']
+# PLUGIN_PATHS = ['/Users/zbir/Dev/zacbir.net/pelican-plugins']
+# PLUGINS = ['liquid_tags.img', 'liquid_tags.include_code', 'tipue_search']
+
+LIQUID_TAGS = ["img", "include_code"]
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
 STATIC_PATHS = ['code', 'images', 'static', '.well-known']
 
-EXTRA_HEADER = '<link rel="me" href="https://mastodon.social/@zacbir">'
+EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
 
 CUSTOM_CSS_FILE = 'static/css/custom.css'
