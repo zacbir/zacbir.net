@@ -1,24 +1,19 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-AUTHOR = u'Zachery Bir'
-SITENAME = u'Zac Bir'
-SITESUBTITLE = u'Thinking and occasionally typing as a service'
+AUTHOR = 'Zac Bir'
+SITENAME = 'Thinking and Occasionally Typing as a Service'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
 DEFAULT_CATEGORY = 'misc'
 CATEGORY_URL = 'category/{slug}/'
 CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
@@ -28,9 +23,13 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Menu items
-MENUITEMS = (('Code', 'https://github.com/zacbir/'),
-             ('Mastodon', 'https://dice.camp/@zacbir/'),
-             ('Archives', '/archives.html'))
+MENUITEMS = (
+    ('Mastodon', 'https://dice.camp/@zacbir'),
+    ('Itch.io', 'https://zacbir.itch.io'),
+    ('Geometriq', 'https://instagram.com/geometriq_studio'),
+    ('Code', 'https://github.com/zacbir'),
+    ('Archives', '/archives.html')
+)
 
 # Social widget
 SOCIAL = ()
@@ -48,10 +47,10 @@ CATEGORIES = ()
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-# THEME = 'pelican-octopress-theme'
+THEME = 'Peli-Kiera'
 
 # PLUGIN_PATHS = ['/Users/zbir/Dev/zacbir.net/pelican-plugins']
-# PLUGINS = ['liquid_tags.img', 'liquid_tags.include_code', 'tipue_search']
+PLUGINS = ['liquid_tags', 'search', 'neighbors']
 
 LIQUID_TAGS = ["img", "include_code"]
 
@@ -60,5 +59,9 @@ DISPLAY_CATEGORIES_ON_MENU = False
 STATIC_PATHS = ['code', 'images', 'static', '.well-known']
 
 EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
+
+HEADER_COVER = 'images/triangles-header.jpg'
+
+COPYRIGHT = '2013-2022'
 
 CUSTOM_CSS_FILE = 'static/css/custom.css'

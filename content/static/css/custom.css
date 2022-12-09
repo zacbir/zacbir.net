@@ -2,6 +2,33 @@
     body > header {
         background: url(/images/triangles-header.jpg) no-repeat;
     }
+    .intro-header {
+        height: 256px;
+    }
+}
+
+body {
+    font-family: "PT Serif", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+time {
+  font-family: "PT Serif", sans-serif;
+}
+
+#container nav {
+  font-family: "PT Serif", sans-serif;
+}
+
+.meta-aside,
+#container main section#home ul li aside,
+#container main article aside {
+  font-family: "PT Serif", sans-serif;
 }
 
 .borderless { 
