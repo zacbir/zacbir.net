@@ -56,7 +56,7 @@ LIQUID_TAGS = ["img", "include_code"]
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
-STATIC_PATHS = ['code', 'images', 'static', '.well-known']
+STATIC_PATHS = ['code', 'images', '.well-known']
 
 EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
 
