@@ -1,3 +1,3 @@
-[submodule "Peli-Kiera"]
-	path = Peli-Kiera
-	url = https://github.com/aleylara/Peli-Kiera
+[submodule "zacbir-Kiera"]
+	path = zacbir-Kiera
+	url = git@github.com:zacbir/zacbir-Kiera.git

@@ -47,7 +47,7 @@ CATEGORIES = ()
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-THEME = 'Peli-Kiera'
+THEME = 'zacbir-Kiera'
 
 # PLUGIN_PATHS = ['/Users/zbir/Dev/zacbir.net/pelican-plugins']
 PLUGINS = ['liquid_tags', 'search', 'neighbors']

@@ -4,14 +4,14 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=$(HOME)/Sites/zacbir.net
+OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 SSH_HOST=new.zacbir.net
 SSH_PORT=22
 SSH_USER=alice
-SSH_TARGET_DIR=/var/www/new.zacbir.net
+SSH_TARGET_DIR=/var/www/zacbir.net
 
 
 DEBUG ?= 0
