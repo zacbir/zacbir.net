@@ -63,5 +63,3 @@ EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
 HEADER_COVER = 'images/triangles-header.jpg'
 
 COPYRIGHT = '2013-2022'
-
-CUSTOM_CSS_FILE = 'static/css/custom.css'
