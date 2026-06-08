@@ -27,6 +27,7 @@ MENUITEMS = (
     ('Mastodon', 'https://dice.camp/@zacbir'),
     ('Itch.io', 'https://zacbir.itch.io'),
     ('Geometriq', 'https://instagram.com/geometriq_studio'),
+    ('Neverending Pretending', 'https://neverendingpretending.com'),
     ('Code', 'https://github.com/zacbir'),
     ('Archives', '/archives.html')
 )
