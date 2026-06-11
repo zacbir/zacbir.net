@@ -24,10 +24,10 @@ LINKS = ()
 
 # Menu items
 MENUITEMS = (
-    ('Mastodon', 'https://dice.camp/@zacbir'),
+    ('Micro', 'https://micro.zacbir.net'),
     ('Itch.io', 'https://zacbir.itch.io'),
-    ('Geometriq', 'https://instagram.com/geometriq_studio'),
     ('Neverending Pretending', 'https://neverendingpretending.com'),
+    ('Geometriq', 'https://instagram.com/geometriq_studio'),
     ('Code', 'https://github.com/zacbir'),
     ('Archives', '/archives.html')
 )
@@ -53,7 +53,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 THEME = 'zacbir-Kiera'
 
 # PLUGIN_PATHS = ['/Users/zbir/Dev/zacbir.net/pelican-plugins']
-PLUGINS = ['liquid_tags', 'search', 'neighbors']
+PLUGINS = ['liquid_tags', 'neighbors']
 
 LIQUID_TAGS = ["img", "include_code"]
 
