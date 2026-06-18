@@ -24,7 +24,7 @@ LINKS = ()
 
 # Menu items
 MENUITEMS = (
-    ('Micro', 'https://micro.zacbir.net'),
+    ('Mastodon', 'https://dice.camp/@zacbir'),
     ('Itch.io', 'https://zacbir.itch.io'),
     ('Neverending Pretending', 'https://neverendingpretending.com'),
     ('Geometriq', 'https://instagram.com/geometriq_studio'),
@@ -65,4 +65,4 @@ EXTRA_HEADER = '<link rel="me" href="https://dice.camp/@zacbir">'
 
 HEADER_COVER = 'images/triangles-header.jpg'
 
-COPYRIGHT = '2013-2022'
+COPYRIGHT = '2013-2026'
